@@ -352,36 +352,9 @@
 
 ## 🤝 Let’s Connect
 
-<table width="100%" cellpadding="6" cellspacing="10">
-  <tr>
-    <td align="center">
-      <a href="mailto:amanmohamed5500@gmail.com">
-        <img src="./assets/connect/connect_email.gif" alt="Email Aman" width="100%" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="tel:+94764050889">
-        <img src="./assets/connect/connect_phone.gif" alt="Call Aman" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./assets/connect/connect_location.gif" alt="Location Colombo" width="100%" />
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/aman-mohamed-076644305" target="_blank">
-        <img src="./assets/connect/connect_linkedin.gif" alt="LinkedIn Aman" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank">
-        <img src="./assets/connect/connect_portfolio.gif" alt="Portfolio Aman" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+| [![Email](./assets/connect/connect_email.gif)](mailto:amanmohamed5500@gmail.com)                  | [![Phone](./assets/connect/connect_phone.gif)](tel:+94764050889)                                         |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![Location](./assets/connect/connect_location.gif)                                                | [![LinkedIn](./assets/connect/connect_linkedin.gif)](https://www.linkedin.com/in/aman-mohamed-076644305) |
+| [![Portfolio](./assets/connect/connect_portfolio.gif)](https://amanmohamedjhportfolio.vercel.app) | &nbsp;                                                                                                   |
 
 <p align="center">Let’s collaborate on something worth shipping.</p>
