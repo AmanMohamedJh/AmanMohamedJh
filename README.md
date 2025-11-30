@@ -1,23 +1,74 @@
-<div align="center" style="background:linear-gradient(135deg,#04060f 20%,#0b1326 60%,#131f3a);border:1px solid #1f2a44;border-radius:28px;padding:32px 18px;margin-bottom:28px;box-shadow:0 25px 55px rgba(0,0,0,0.55);">
-  <h1 align="center" style="margin:0 0 8px 0;">Aman Mohamed</h1>
-  <p align="center"><strong>Aspiring Software Engineer · SaaS Product Builder · Full-Stack & Backend Developer</strong></p>
-  <p align="center">Colombo, Sri Lanka · Open to internships, contract, and remote opportunities</p>
-
-  <div align="center" style="margin-top:12px;">
-    <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/aman-mohamed-076644305" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:amanmohamed5500@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="tel:+94764050889"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call" /></a>
-    <a href="https://github.com/amanmohamedjh" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </div>
-
-  <div align="center" style="margin-top:18px;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
-    <img src="https://img.shields.io/badge/Timezone-GMT%2B5:30-0d1117?style=flat-square&logo=clockify&logoColor=00f6ff&labelColor=050608&color=11192d" alt="timezone badge" />
-    <img src="https://img.shields.io/badge/Mode-Dark%20First-0d1117?style=flat-square&logo=starship&logoColor=adff2f&labelColor=050608&color=11192d" alt="dark mode" />
-    <img src="https://img.shields.io/badge/Playstyle-Remote%20%7C%20Hybrid-0d1117?style=flat-square&logo=steam&logoColor=66d9ef&labelColor=050608&color=11192d" alt="work mode" />
-    <img src="https://img.shields.io/badge/Speaks-EN%20%7C%20SI%20%7C%20TA-0d1117?style=flat-square&logo=googletranslate&logoColor=ff8c69&labelColor=050608&color=11192d" alt="languages badge" />
-  </div>
-</div>
+<table width="100%" cellspacing="0" cellpadding="18" style="border-radius:36px;background:linear-gradient(120deg,#050910 20%,#0d172c 70%,#04060b);border:1px solid #1d2942;box-shadow:0 25px 55px rgba(0,0,0,0.55);">
+  <tr>
+    <td width="64%" valign="top" style="padding-right:24px;">
+      <h1 style="margin:0;color:#f3f6ff;font-size:2.3rem;">Aman Mohamed</h1>
+      <p style="margin:6px 0 10px;color:#a9c0ff;font-size:1.05rem;">SaaS Product Builder · Full-Stack & Backend Developer</p>
+      <p style="margin:0;color:#ced5ff;">Colombo, Sri Lanka · Shipping admin worlds, control rooms, and onboarding flows</p>
+      <ul style="margin:18px 0 0;padding-left:10px;list-style:none;color:#dfe4ff;font-size:0.95rem;">
+        <li style="margin-bottom:10px;display:flex;gap:12px;align-items:flex-start;">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc1bHIyY3V5aTVsczBxN2E4YXdhM3huMWZ6Zm9udWs0enpxZGx6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="controller gif" height="28" />
+          <div>
+            <strong>Questline</strong><br />Crafting multi-tenant SaaS systems with Go backends, Next.js frontends, and research-driven UX.
+          </div>
+        </li>
+        <li style="margin-bottom:10px;display:flex;gap:12px;align-items:flex-start;">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA4ZXZxNDJzYTViaXk3NmV6ejZlZDNqNWRuc2tzbWI1bTF1a2ZrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT1XGYy9NPhWRPp3cs/giphy.gif" alt="radar" height="28" />
+          <div>
+            <strong>Specializations</strong>
+            <ul style="margin:6px 0 0 14px;padding:0;">
+              <li>Granular RBAC / MFA security loops</li>
+              <li>Telemetry dashboards & growth experiments</li>
+            </ul>
+          </div>
+        </li>
+        <li style="margin-bottom:10px;display:flex;gap:12px;align-items:flex-start;">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0Y2NjZHV1OGYzOWxsbWljeWRlNHB5aXl6MGZlYzNsd2FtMzJxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/17mNCcKU1mJlrbXodo/giphy.gif" alt="satellite" height="28" />
+          <div>
+            <strong>Availability</strong><br />Internships · Contract builds · Remote pods (APAC friendly)
+          </div>
+        </li>
+      </ul>
+      <p style="margin:20px 0 0;">
+        <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0a0b0f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+        <a href="https://www.linkedin.com/in/aman-mohamed-076644305" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:amanmohamed5500@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="tel:+94764050889"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call" /></a>
+        <a href="https://github.com/amanmohamedjh" target="_blank"><img src="https://img.shields.io/badge/GitHub-11131a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+      </p>
+    </td>
+    <td width="36%" valign="top" style="border-left:1px solid #1d2942;padding-left:24px;">
+      <h3 style="margin:0 0 12px;color:#b6c8ff;display:flex;align-items:center;gap:8px;">
+        <span>🛰️</span>Status Console
+      </h3>
+      <table width="100%" cellpadding="8" style="background:#070d18;border-radius:18px;border:1px solid #1f2a44;">
+        <tr>
+          <td>⏱️ Timezone</td>
+          <td align="right"><code>GMT+5:30</code></td>
+        </tr>
+        <tr>
+          <td>🌘 Mode</td>
+          <td align="right">Dark-first</td>
+        </tr>
+        <tr>
+          <td>🎮 Playstyle</td>
+          <td align="right">Remote / Hybrid</td>
+        </tr>
+        <tr>
+          <td>🗣️ Speaks</td>
+          <td align="right">EN · SI · TA</td>
+        </tr>
+      </table>
+      <h4 style="margin:18px 0 8px;color:#b6c8ff;display:flex;align-items:center;gap:8px;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q2dXZxaTIyZnUzajFyNHlnMHl0d3BnNzRyMXZ0YW02NXM2NXB0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduSbSGpGaRX2Vri/giphy.gif" alt="radio" height="24" />
+        Signal Boosts
+      </h4>
+      <ul style="margin:0;padding-left:18px;color:#dfe4ff;font-size:0.92rem;">
+        <li>Open-source obsessions: admin tooling, auth, telemetry</li>
+        <li>Mentoring juniors on research + product loops</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">Hi 👋! My name is Aman Mohamed and I'm a SaaS-focused software engineer in training from Colombo, Sri Lanka.</h2>
 
