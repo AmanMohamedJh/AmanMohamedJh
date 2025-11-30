@@ -1,5 +1,6 @@
 from pathlib import Path
 from math import sin, pi
+from random import Random
 from PIL import Image, ImageDraw, ImageFont
 import textwrap
 
@@ -41,8 +42,6 @@ OUTPUTS = [
     },
 ]
 
-WIDTH, HEIGHT = 460, 150
-FRAMES = 24
 def _load_font(path: str, size: int):
     try:
         return ImageFont.truetype(path, size)
@@ -50,38 +49,53 @@ def _load_font(path: str, size: int):
         return ImageFont.load_default()
 
 
-FONT_SMALL = _load_font("C:/Windows/Fonts/SEGOEUI.TTF", 18)
+WIDTH, HEIGHT = 460, 150
+FRAMES = 24
+
+FONT_SMALL = _load_font("C:/Windows/Fonts/SEGOEUI.TTF", 17)
 FONT_LARGE = _load_font("C:/Windows/Fonts/SEGOEUIB.TTF", 26)
 FONT_EMOJI = _load_font("C:/Windows/Fonts/seguiemj.ttf", 32)
+FONT_MONO = _load_font("C:/Windows/Fonts/consola.ttf", 15)
+
+
+def _blend(c1, c2, factor):
+    return tuple(int(c1[i] * factor + c2[i] * (1 - factor)) for i in range(3))
 
 root = Path(__file__).parent
+assets_dir = root / "assets" / "connect"
+assets_dir.mkdir(parents=True, exist_ok=True)
+rng = Random(42)
 
 for conf in OUTPUTS:
     frames = []
     for idx in range(FRAMES):
         frame = Image.new("RGBA", (WIDTH, HEIGHT), (5, 8, 16, 255))
         draw = ImageDraw.Draw(frame)
-        # animated gradient sweep
+        # soft gradient background with gentle shimmer
         for y in range(HEIGHT):
             ratio = y / HEIGHT
-            wave = 0.5 + 0.5 * sin(2 * pi * (idx / FRAMES) + ratio * pi)
-            r = int(conf["colors"][0][0] * wave + conf["colors"][1][0] * (1 - wave))
-            g = int(conf["colors"][0][1] * wave + conf["colors"][1][1] * (1 - wave))
-            b = int(conf["colors"][0][2] * wave + conf["colors"][1][2] * (1 - wave))
-            draw.line([(0, y), (WIDTH, y)], fill=(r, g, b, 255))
-        # rounded border
-        draw.rounded_rectangle((2, 2, WIDTH - 2, HEIGHT - 2), radius=28, outline=(255, 255, 255, 40), width=2)
-        # emoji badge
-        badge_box = (20, 35, 20 + 64, 35 + 64)
-        draw.rounded_rectangle(badge_box, radius=18, fill=(0, 0, 0, 90))
-        draw.text((badge_box[0] + 16, badge_box[1] + 8), conf["emoji"], font=FONT_EMOJI, fill=(255, 255, 255, 220))
-        # text
-        draw.text((110, 40), conf["label"].upper(), font=FONT_SMALL, fill=(210, 220, 255))
-        wrapped = textwrap.wrap(conf["value"], width=28)
-        for wrap_idx, line in enumerate(wrapped[:3]):
-            y_pos = 76 + wrap_idx * 30
-            draw.text((110, y_pos), line, font=FONT_LARGE, fill=(255, 255, 255))
+            base = _blend(conf["colors"][0], conf["colors"][1], ratio)
+            draw.line([(0, y), (WIDTH, y)], fill=(*base, 255))
+
+        beam_phase = (idx / FRAMES) * WIDTH
+        beam_width = 90
+        draw.rectangle((beam_phase - beam_width, 0, beam_phase, HEIGHT), fill=(255, 255, 255, 30))
+
+        draw.rounded_rectangle((6, 6, WIDTH - 6, HEIGHT - 6), radius=26, outline=(255, 255, 255, 80), width=2)
+
+        badge_box = (24, 38, 24 + 68, 38 + 68)
+        draw.rounded_rectangle(badge_box, radius=20, fill=(0, 0, 0, 110))
+        draw.text((badge_box[0] + 12, badge_box[1] + 6), conf["emoji"], font=FONT_EMOJI, fill=(255, 255, 255, 230))
+
+        label_x = badge_box[2] + 18
+        draw.text((label_x, 40), conf["label"].upper(), font=FONT_SMALL, fill=(230, 235, 250))
+        wrapped = textwrap.wrap(conf["value"], width=26)
+        for wrap_idx, line in enumerate(wrapped[:2]):
+            draw.text((label_x, 72 + wrap_idx * 30), line, font=FONT_LARGE, fill=(255, 255, 255))
+
+        draw.text((label_x, HEIGHT - 32), "Response within a day", font=FONT_MONO, fill=(230, 235, 245))
+
         frames.append(frame)
-    out_path = root / f"connect_{conf['key']}.gif"
+    out_path = assets_dir / f"connect_{conf['key']}.gif"
     frames[0].save(out_path, save_all=True, append_images=frames[1:], loop=0, duration=80, disposal=2)
     print(f"Wrote {out_path}")

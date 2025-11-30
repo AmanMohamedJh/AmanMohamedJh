@@ -352,9 +352,50 @@
 
 ## 🤝 Let’s Connect
 
-| [![Email](./assets/connect/connect_email.gif)](mailto:amanmohamed5500@gmail.com)                  | [![Phone](./assets/connect/connect_phone.gif)](tel:+94764050889)                                         |
-| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![Location](./assets/connect/connect_location.gif)                                                | [![LinkedIn](./assets/connect/connect_linkedin.gif)](https://www.linkedin.com/in/aman-mohamed-076644305) |
-| [![Portfolio](./assets/connect/connect_portfolio.gif)](https://amanmohamedjhportfolio.vercel.app) | &nbsp;                                                                                                   |
+<div align="center" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px;margin:18px 0;">
+  <a href="mailto:amanmohamed5500@gmail.com" target="_blank" style="text-decoration:none;">
+    <div style="border-radius:18px;overflow:hidden;background:linear-gradient(135deg,#16234b,#0e1728);border:1px solid rgba(120,180,255,0.45);box-shadow:0 15px 40px rgba(3,10,30,0.65);">
+      <img src="./assets/connect/connect_email.gif" alt="Animated email card" style="width:100%;display:block;border-bottom:1px solid rgba(255,255,255,0.1);" />
+      <div style="padding:14px 16px;text-align:left;color:#e5edff;">
+        <p style="margin:0;font-size:0.75rem;letter-spacing:0.2em;text-transform:uppercase;color:#87b8ff;">Email</p>
+        <strong style="display:block;margin-top:6px;font-size:1rem;">amanmohamed5500@gmail.com</strong>
+      </div>
+    </div>
+  </a>
+  <a href="tel:+94764050889" style="text-decoration:none;">
+    <div style="border-radius:18px;overflow:hidden;background:linear-gradient(135deg,#2d0b1f,#5b0b2d);border:1px solid rgba(255,99,146,0.45);box-shadow:0 15px 40px rgba(33,6,14,0.65);">
+      <img src="./assets/connect/connect_phone.gif" alt="Animated phone card" style="width:100%;display:block;border-bottom:1px solid rgba(255,255,255,0.1);" />
+      <div style="padding:14px 16px;text-align:left;color:#ffe5f0;">
+        <p style="margin:0;font-size:0.75rem;letter-spacing:0.2em;text-transform:uppercase;color:#ff9abf;">Phone</p>
+        <strong style="display:block;margin-top:6px;font-size:1rem;">+94 76 405 0889</strong>
+      </div>
+    </div>
+  </a>
+  <div style="border-radius:18px;overflow:hidden;background:linear-gradient(135deg,#043629,#0b5f47);border:1px solid rgba(147,242,195,0.4);box-shadow:0 15px 40px rgba(3,27,17,0.65);">
+    <img src="./assets/connect/connect_location.gif" alt="Animated location card" style="width:100%;display:block;border-bottom:1px solid rgba(255,255,255,0.1);" />
+    <div style="padding:14px 16px;text-align:left;color:#dff8ea;">
+      <p style="margin:0;font-size:0.75rem;letter-spacing:0.2em;text-transform:uppercase;color:#8bf2c2;">Location</p>
+      <strong style="display:block;margin-top:6px;font-size:1rem;">Colombo · Trend Horizon Residencies</strong>
+    </div>
+  </div>
+  <a href="https://www.linkedin.com/in/aman-mohamed-076644305" target="_blank" style="text-decoration:none;">
+    <div style="border-radius:18px;overflow:hidden;background:linear-gradient(135deg,#041333,#06255b);border:1px solid rgba(118,173,255,0.45);box-shadow:0 15px 40px rgba(2,9,24,0.65);">
+      <img src="./assets/connect/connect_linkedin.gif" alt="Animated LinkedIn card" style="width:100%;display:block;border-bottom:1px solid rgba(255,255,255,0.1);" />
+      <div style="padding:14px 16px;text-align:left;color:#e0edff;">
+        <p style="margin:0;font-size:0.75rem;letter-spacing:0.2em;text-transform:uppercase;color:#7cc3ff;">LinkedIn</p>
+        <strong style="display:block;margin-top:6px;font-size:1rem;">in/aman-mohamed-076644305</strong>
+      </div>
+    </div>
+  </a>
+  <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank" style="text-decoration:none;">
+    <div style="border-radius:18px;overflow:hidden;background:linear-gradient(135deg,#3d2504,#a56a07);border:1px solid rgba(250,214,160,0.5);box-shadow:0 15px 40px rgba(26,11,0,0.65);">
+      <img src="./assets/connect/connect_portfolio.gif" alt="Animated portfolio card" style="width:100%;display:block;border-bottom:1px solid rgba(255,255,255,0.1);" />
+      <div style="padding:14px 16px;text-align:left;color:#fff3dc;">
+        <p style="margin:0;font-size:0.75rem;letter-spacing:0.2em;text-transform:uppercase;color:#ffe1a6;">Portfolio</p>
+        <strong style="display:block;margin-top:6px;font-size:1rem;">amanmohamedjhportfolio.vercel.app</strong>
+      </div>
+    </div>
+  </a>
+</div>
 
 <p align="center">Let’s collaborate on something worth shipping.</p>
