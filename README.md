@@ -72,6 +72,38 @@
 
 <h2 align="left">Hi 👋! My name is Aman Mohamed and I'm a SaaS-focused software engineer in training from Colombo, Sri Lanka.</h2>
 
+<table width="100%" cellpadding="18" cellspacing="0" style="border-radius:22px;border:1px solid #1f2a44;background:#070d18;margin-top:12px;">
+  <tr>
+    <td width="65%" valign="top">
+      <h3 style="margin-top:0;color:#cdd7ff;display:flex;align-items:center;gap:8px;">🚀 Portfolio Launch — Oct 2025 · Nov 2025</h3>
+      <p style="margin:0 0 10px;color:#dfe4ff;">After a long wait, my portfolio is finally live at <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank">amanmohamedjhportfolio.vercel.app</a>. I kept v1 private for a year until I could rebuild it with the skills, structure, and storytelling I wanted. This new release is a full Next.js 15 + TypeScript + Tailwind + shadcn/ui rebuild—designed screen-by-screen and engineered like a production app.</p>
+      <p style="margin:0 0 10px;color:#dfe4ff;">What’s inside: refreshed achievements, academic timeline, blog, resume, and project sections, with more rolling out soon.</p>
+      <h4 style="margin:12px 0 6px;color:#b4c4ff;">Technical Highlights</h4>
+      <ul style="margin:0;padding-left:18px;color:#c8d3ff;">
+        <li><strong>Modular Architecture:</strong> Each section (Home, About, Resume, Skills, Certifications, Projects, Blog, Contact) has its own route + component system for minimal hydration.</li>
+        <li><strong>Motion-Driven UI:</strong> Framer Motion, Lenis smooth scrolling, draggable interactions, envelope modals, animated timelines.</li>
+        <li><strong>Typed Data Models:</strong> Skills, certifications, GPA timelines, and projects live as typed datasets—ready for a CMS pipeline.</li>
+        <li><strong>Responsive Visual System:</strong> Tailwind tokens + custom CSS modules power glassmorphism layers, badges, media hubs.</li>
+        <li><strong>Interactive Contact Layer:</strong> Serverless email (Next API + Nodemailer), WhatsApp/Instagram deep links, draggable “Aman HQ” map.</li>
+        <li><strong>Deployment & Tooling:</strong> Vercel CI/CD with pnpm + Biome/ESLint; Next Image optimization; instant-loading resume PDFs.</li>
+      </ul>
+      <p style="margin:10px 0 0;color:#dfe4ff;">This portfolio reflects the high-polish, front-of-stack experiences I love building. Expect fresh write-ups, experiments, and iterations as I grow.</p>
+      <p style="margin:12px 0 0;color:#9fb6ff;font-size:0.95rem;">Skills featured: Software Project Management, Front-End Development, +3 more.</p>
+    </td>
+    <td width="35%" valign="top" style="border-left:1px solid #1f2a44;padding-left:18px;">
+      <p style="margin:0 0 8px;color:#93a4d1;">Visual snapshots</p>
+      <img src="./Gemini_Generated_Image_y3vvs3y3vvs3y3vv.png" alt="Portfolio hero" width="100%" style="border-radius:14px;border:1px solid #1f2a44;margin-bottom:10px;" />
+      <p style="margin:6px 0;color:#c8d3ff;font-size:0.9rem;">Overall picture of my portfolio</p>
+      <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Explore%20the%20experience-111a2f?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore" /></a>
+      <hr style="border:none;border-top:1px solid #1f2a44;margin:16px 0;" />
+      <p style="margin:0;color:#93a4d1;">Latest resume & certifications</p>
+      <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank" style="color:#9fb6ff;">Check it out →</a>
+      <p style="margin:12px 0 0;color:#93a4d1;">Homepage peek</p>
+      <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank" style="color:#9fb6ff;">View light mode →</a>
+    </td>
+  </tr>
+</table>
+
 ###
 
 <div align="center">
