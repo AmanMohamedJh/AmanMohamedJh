@@ -308,10 +308,54 @@
 
 ## 🌱 Currently
 
-- 💼 Seeking: Software Engineering internships, product pods, or SaaS collaborations (on-site, hybrid, or remote across Sri Lanka)
-- 📚 Deep-diving into scalable Go services, SaaS growth loops, and advanced permission systems
-- 🎯 Personal R&D on session revocation, multi-tenant analytics, and human-friendly onboarding flows
-- 🤲 Open to volunteering in education, civic tech, sustainability, and economic empowerment initiatives
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVkMTV6ZHN4dTNzYjl4YmI2czc5NzVsM3c0cnNxZmpsZWkzM3pyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CovFciJgWyxUs/giphy.gif" alt="Neon terminal animation" width="65%" />
+</p>
+
+<p align="center">Nightly ops board: what I’m queuing up, experimenting on, and shipping energy toward.</p>
+
+<table width="100%" cellspacing="12" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top" style="border:1px solid #1f2a44;border-radius:18px;background:#0c121f;padding:16px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9nbm54Z3U0cXQxYXlpMjZ2NzAxZ3hobWNsZnR3cTdnc3c2M2NzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Mission planning" width="100%" />
+      <h4>🎒 Mission Queue</h4>
+      <p>Scanning for SaaS pods and software engineering squads that thrive on dark-mode dashboards and rapid iterations.</p>
+      <ul>
+        <li>Internships, contract builds, or remote collabs across Sri Lanka</li>
+        <li>Prefer teams crafting ops platforms, admin tooling, or growth infra</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border:1px solid #1f2a44;border-radius:18px;background:#0c121f;padding:16px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV3cWh2aW5ybDMzM2NycWw0YmgyYWo5d3RnaW5xZDR1MzR5anFpZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRrSvJUa0crqw4E/giphy.gif" alt="Deep work" width="100%" />
+      <h4>📘 Deep Practice</h4>
+      <p>Daily reps on scalable Go services, telemetry-first APIs, and SaaS growth loops that feel like game economies.</p>
+      <ul>
+        <li>Designing service meshes + tracing like boss-fights</li>
+        <li>Breaking down permission trees & experimentation loops</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border:1px solid #1f2a44;border-radius:18px;background:#0c121f;padding:16px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8wbWNudGVtNnAxcHE3cGdjODFwdng0dXQwbjd6a2E2ZDRxbmJwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlSNOxJB956qwfK/giphy.gif" alt="Lab experiments" width="100%" />
+      <h4>🧪 Lab Experiments</h4>
+      <p>Personal R&amp;D on session revocation, multi-tenant analytics, and onboarding rituals that respect humans.</p>
+      <ul>
+        <li>Rapid protos in Next.js + Go + Supabase stacks</li>
+        <li>Telemetry dashboards that pulse like synthwave HUDs</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border:1px solid #1f2a44;border-radius:18px;background:#0c121f;padding:16px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdvbGt6dTl0YnR0aGQxMTluaGRoejBrdnhucGxjbjVzMGhzOHBycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orieQCMoqakz9Ageg/giphy.gif" alt="Community focus" width="100%" />
+      <h4>🤲 Community Boost</h4>
+      <p>Volunteering invoker mode: education, civic tech, sustainability, and economic empowerment projects.</p>
+      <ul>
+        <li>Mentoring cohorts on product thinking + research</li>
+        <li>Pro-bono dashboards for grassroots orgs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
