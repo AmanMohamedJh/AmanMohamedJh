@@ -243,28 +243,9 @@
 
 ## 🗂 Spotlight Projects
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px;">
-  <div style="background:#0d1424;border:1px solid #1f2a44;border-radius:18px;padding:18px;">
-    <h4 style="margin-top:0;">INQ Admin Suite</h4>
-    <p style="font-size:0.9rem;color:#93a4d1;">Node.js · NestJS · MongoDB · MFA</p>
-    <p>Hierarchical RBAC, MFA-enforced Super Admin flows, permission versioning, and audit-ready logging.</p>
-  </div>
-  <div style="background:#0d1424;border:1px solid #1f2a44;border-radius:18px;padding:18px;">
-    <h4 style="margin-top:0;">Portfolio v2</h4>
-    <p style="font-size:0.9rem;color:#93a4d1;">Next.js 15 · TypeScript · Tailwind · shadcn/ui</p>
-    <p>Motion-driven UI, typed content models, serverless email, Vercel deployments, and evolving blog/experiments.</p>
-  </div>
-  <div style="background:#0d1424;border:1px solid #1f2a44;border-radius:18px;padding:18px;">
-    <h4 style="margin-top:0;">GymHub Platform</h4>
-    <p style="font-size:0.9rem;color:#93a4d1;">MERN · Stripe · JWT</p>
-    <p>Multi-tenant gym management, trainer hiring, subscription billing, and real-time analytics dashboards.</p>
-  </div>
-  <div style="background:#0d1424;border:1px solid #1f2a44;border-radius:18px;padding:18px;">
-    <h4 style="margin-top:0;">WalletWhiz</h4>
-    <p style="font-size:0.9rem;color:#93a4d1;">Kotlin · Android SDK · Jetpack</p>
-    <p>Expense tracking, goal-based budgeting, MPAndroidChart insights, coroutine persistence, and smooth onboarding.</p>
-  </div>
-</div>
+<p align="center">
+  <img src="./assets/spotlight_projects.png" alt="Spotlight Projects grid" />
+</p>
 
 ---
 
