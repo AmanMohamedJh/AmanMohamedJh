@@ -84,79 +84,102 @@
 
 ## 👋 About Me
 
-<div style="background:#0c111e;border:1px solid #1f2a44;border-radius:20px;padding:24px;box-shadow:0 15px 45px rgba(0,0,0,0.45);">
-  <p>I’m a SLIIT BSc. (Software Engineering) undergraduate obsessed with crafting SaaS products that feel polished, reliable, and genuinely helpful. I love taking ideas from messy notes to production-ready experiences—balancing product thinking, research, and the engineering required to scale.</p>
-
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:20px;">
-    <div style="background:#111a2f;border-radius:16px;padding:16px;display:flex;gap:12px;align-items:flex-start;">
-      <span style="font-size:1.5rem;">🧠</span>
-      <div>
-        <strong>Product Researcher</strong>
-        <p style="margin:4px 0 0;">Onboarding, retention, and sustainable growth loops.</p>
-      </div>
-    </div>
-    <div style="background:#111a2f;border-radius:16px;padding:16px;display:flex;gap:12px;align-items:flex-start;">
-      <span style="font-size:1.5rem;">🛠️</span>
-      <div>
-        <strong>Full-Stack Engineer</strong>
-        <p style="margin:4px 0 0;">Go backends, MERN/Next.js frontends, NestJS-powered APIs.</p>
-      </div>
-    </div>
-    <div style="background:#111a2f;border-radius:16px;padding:16px;display:flex;gap:12px;align-items:flex-start;">
-      <span style="font-size:1.5rem;">⚙️</span>
-      <div>
-        <strong>Security & Systems</strong>
-        <p style="margin:4px 0 0;">Designing RBAC, MFA, observability, and clean auth flows.</p>
-      </div>
-    </div>
-    <div style="background:#111a2f;border-radius:16px;padding:16px;display:flex;gap:12px;align-items:flex-start;">
-      <span style="font-size:1.5rem;">🤝</span>
-      <div>
-        <strong>Builder Mindset</strong>
-        <p style="margin:4px 0 0;">Open to internships, collaborations, and impactful volunteer work.</p>
-      </div>
-    </div>
-  </div>
-</div>
+<table width="100%" cellpadding="16" style="border:1px solid #1f2a44;border-radius:24px;background:#0c111e;">
+  <tr>
+    <td>
+      <p>I’m a SLIIT BSc. (Software Engineering) undergraduate obsessed with crafting SaaS products that feel polished, reliable, and genuinely helpful. I love taking ideas from messy notes to production-ready experiences—balancing product thinking, research, and the engineering required to scale.</p>
+      <table width="100%" cellspacing="12" cellpadding="12">
+        <tr>
+          <td width="50%" valign="top" style="border:1px solid #1b2542;border-radius:16px;background:#111a2f;">
+            <strong>🧠 Product Researcher</strong>
+            <p style="margin:6px 0 0;">Onboarding, retention, and sustainable growth loops.</p>
+          </td>
+          <td width="50%" valign="top" style="border:1px solid #1b2542;border-radius:16px;background:#111a2f;">
+            <strong>🛠️ Full-Stack Engineer</strong>
+            <p style="margin:6px 0 0;">Go backends, MERN/Next.js frontends, NestJS-powered APIs.</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" valign="top" style="border:1px solid #1b2542;border-radius:16px;background:#111a2f;">
+            <strong>⚙️ Security & Systems</strong>
+            <p style="margin:6px 0 0;">Designing RBAC, MFA, observability, and clean auth flows.</p>
+          </td>
+          <td width="50%" valign="top" style="border:1px solid #1b2542;border-radius:16px;background:#111a2f;">
+            <strong>🤝 Builder Mindset</strong>
+            <p style="margin:6px 0 0;">Open to internships, collaborations, and impactful volunteer work.</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 What I’m Building
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px;">
-  <div style="background:#0d1424;border:1px solid #1f2a44;border-radius:18px;padding:18px;box-shadow:0 12px 30px rgba(0,0,0,0.4);">
-    <div style="display:flex;justify-content:space-between;align-items:center;">
-      <h4 style="margin:0;">INQ Admin Platform</h4>
-      <span style="background:#1f8aee33;color:#6fb6ff;padding:4px 10px;border-radius:999px;font-size:0.8rem;">50% · Alpha</span>
-    </div>
-    <p>Enterprise-grade Super Admin/Admin system with MFA, granular permissions, detailed audit trails, and secure onboarding flows.</p>
-    <p style="font-size:0.9rem;color:#93a4d1;margin:0;">Stack: Node.js · NestJS · MongoDB · MFA</p>
-  </div>
-  <div style="background:#0d1424;border:1px solid #1f2a44;border-radius:18px;padding:18px;box-shadow:0 12px 30px rgba(0,0,0,0.4);">
-    <div style="display:flex;justify-content:space-between;align-items:center;">
-      <h4 style="margin:0;">Portfolio v2</h4>
-      <span style="background:#d946ef33;color:#f0abfc;padding:4px 10px;border-radius:999px;font-size:0.8rem;">Live</span>
-    </div>
-    <p>Next.js 15 + TypeScript rebuild with shadcn/ui, Framer Motion micro-interactions, typed content models, and Vercel CI/CD.</p>
-    <p style="font-size:0.9rem;color:#93a4d1;margin:0;">Stack: Next.js · TypeScript · Tailwind · shadcn/ui</p>
-  </div>
-  <div style="background:#0d1424;border:1px solid #1f2a44;border-radius:18px;padding:18px;box-shadow:0 12px 30px rgba(0,0,0,0.4);">
-    <div style="display:flex;justify-content:space-between;align-items:center;">
-      <h4 style="margin:0;">GymHub (MERN + Stripe)</h4>
-      <span style="background:#22c55e33;color:#86efac;padding:4px 10px;border-radius:999px;font-size:0.8rem;">Pilot</span>
-    </div>
-    <p>Centralized gym platform with JWT auth, trainer onboarding, analytics dashboards, and subscription billing via Stripe.</p>
-    <p style="font-size:0.9rem;color:#93a4d1;margin:0;">Stack: MongoDB · Express · React · Node · Stripe</p>
-  </div>
-  <div style="background:#0d1424;border:1px solid #1f2a44;border-radius:18px;padding:18px;box-shadow:0 12px 30px rgba(0,0,0,0.4);">
-    <div style="display:flex;justify-content:space-between;align-items:center;">
-      <h4 style="margin:0;">WalletWhiz (Kotlin)</h4>
-      <span style="background:#f9731633;color:#fdba74;padding:4px 10px;border-radius:999px;font-size:0.8rem;">Android</span>
-    </div>
-    <p>Native finance companion covering budgets, goal tracking, MPAndroidChart insights, coroutine-powered storage, and alerts.</p>
-    <p style="font-size:0.9rem;color:#93a4d1;margin:0;">Stack: Kotlin · Android SDK · Jetpack · MPAndroidChart</p>
-  </div>
-</div>
+<table width="100%" cellspacing="18" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" cellpadding="12" style="border:1px solid #1f2a44;border-radius:18px;background:#0d1424;">
+        <tr>
+          <td>
+            <div style="display:flex;justify-content:space-between;align-items:center;">
+              <strong>INQ Admin Platform</strong>
+              <span style="background:#1f8aee;color:#cbe8ff;padding:2px 12px;border-radius:999px;font-size:0.8rem;">50% · Alpha</span>
+            </div>
+            <p>Enterprise-grade Super Admin/Admin system with MFA, granular permissions, detailed audit trails, and secure onboarding flows.</p>
+            <p style="font-size:0.9rem;color:#93a4d1;margin:0;">Stack: Node.js · NestJS · MongoDB · MFA</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%" cellpadding="12" style="border:1px solid #1f2a44;border-radius:18px;background:#0d1424;">
+        <tr>
+          <td>
+            <div style="display:flex;justify-content:space-between;align-items:center;">
+              <strong>Portfolio v2</strong>
+              <span style="background:#d946ef;color:#fbe1ff;padding:2px 12px;border-radius:999px;font-size:0.8rem;">Live</span>
+            </div>
+            <p>Next.js 15 + TypeScript rebuild with shadcn/ui, Framer Motion micro-interactions, typed content models, and Vercel CI/CD.</p>
+            <p style="font-size:0.9rem;color:#93a4d1;margin:0;">Stack: Next.js · TypeScript · Tailwind · shadcn/ui</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" cellpadding="12" style="border:1px solid #1f2a44;border-radius:18px;background:#0d1424;">
+        <tr>
+          <td>
+            <div style="display:flex;justify-content:space-between;align-items:center;">
+              <strong>GymHub (MERN + Stripe)</strong>
+              <span style="background:#22c55e;color:#d0ffe2;padding:2px 12px;border-radius:999px;font-size:0.8rem;">Pilot</span>
+            </div>
+            <p>Centralized gym platform with JWT auth, trainer onboarding, analytics dashboards, and subscription billing via Stripe.</p>
+            <p style="font-size:0.9rem;color:#93a4d1;margin:0;">Stack: MongoDB · Express · React · Node · Stripe</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%" cellpadding="12" style="border:1px solid #1f2a44;border-radius:18px;background:#0d1424;">
+        <tr>
+          <td>
+            <div style="display:flex;justify-content:space-between;align-items:center;">
+              <strong>WalletWhiz (Kotlin)</strong>
+              <span style="background:#f97316;color:#ffe4c7;padding:2px 12px;border-radius:999px;font-size:0.8rem;">Android</span>
+            </div>
+            <p>Native finance companion covering budgets, goal tracking, MPAndroidChart insights, coroutine-powered storage, and alerts.</p>
+            <p style="font-size:0.9rem;color:#93a4d1;margin:0;">Stack: Kotlin · Android SDK · Jetpack · MPAndroidChart</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
