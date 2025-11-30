@@ -280,42 +280,9 @@
 
 ### Night Ops Scorecard
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;margin:18px 0;">
-  <div style="background:#0b1120;border:1px solid #1f2a44;border-radius:20px;padding:24px;box-shadow:0 20px 45px rgba(0,0,0,0.5);color:#e2e8ff;">
-    <h4 style="margin-top:0;margin-bottom:18px;color:#8cc3ff;">Aman Mohamed Jh&apos;s GitHub Stats</h4>
-    <div style="display:flex;justify-content:space-between;align-items:center;gap:18px;flex-wrap:wrap;">
-      <ul style="list-style:none;margin:0;padding:0;font-size:0.95rem;">
-        <li style="margin-bottom:6px;">⭐ <strong>Total Stars:</strong> 0</li>
-        <li style="margin-bottom:6px;">🕒 <strong>Total Commits:</strong> 715</li>
-        <li style="margin-bottom:6px;">🔗 <strong>Total PRs:</strong> 56</li>
-        <li style="margin-bottom:6px;">❗ <strong>Total Issues:</strong> 0</li>
-        <li>📦 <strong>Contributed to:</strong> 2</li>
-      </ul>
-      <div style="width:110px;height:110px;border-radius:50%;border:8px solid rgba(79,128,255,0.25);display:flex;align-items:center;justify-content:center;background:radial-gradient(circle at 30% 30%,rgba(79,128,255,0.35),rgba(29,51,89,0.9));font-size:1.8rem;font-weight:700;color:#d7e3ff;">
-        A+
-      </div>
-    </div>
-  </div>
-  <div style="background:#0b1120;border:1px solid #1f2a44;border-radius:20px;padding:24px;box-shadow:0 20px 45px rgba(0,0,0,0.5);color:#e2e8ff;">
-    <h4 style="margin-top:0;margin-bottom:16px;color:#8cc3ff;">Most Used Languages</h4>
-    <div style="background:#050914;border-radius:999px;height:14px;overflow:hidden;margin-bottom:12px;">
-      <div style="height:100%;display:flex;">
-        <span style="width:58.3%;background:#e6cf52;"></span>
-        <span style="width:23.26%;background:#5d3db4;"></span>
-        <span style="width:12.73%;background:#b8732f;"></span>
-        <span style="width:5.41%;background:#9a6bff;"></span>
-        <span style="width:0.3%;background:#c2185b;"></span>
-      </div>
-    </div>
-    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:8px;font-size:0.9rem;">
-      <span style="display:flex;align-items:center;gap:6px;"><span style="width:10px;height:10px;background:#e6cf52;border-radius:50%;"></span>JavaScript · 58.30%</span>
-      <span style="display:flex;align-items:center;gap:6px;"><span style="width:10px;height:10px;background:#5d3db4;border-radius:50%;"></span>CSS · 23.26%</span>
-      <span style="display:flex;align-items:center;gap:6px;"><span style="width:10px;height:10px;background:#b8732f;border-radius:50%;"></span>Java · 12.73%</span>
-      <span style="display:flex;align-items:center;gap:6px;"><span style="width:10px;height:10px;background:#9a6bff;border-radius:50%;"></span>Kotlin · 5.41%</span>
-      <span style="display:flex;align-items:center;gap:6px;"><span style="width:10px;height:10px;background:#c2185b;border-radius:50%;"></span>EJS · 0.30%</span>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <img src="./assets/night_ops_scorecard.png" alt="Night Ops Scorecard" />
+</p>
 
 ---
 
