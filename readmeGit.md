@@ -322,7 +322,7 @@
 ## 🕹 Contribution Fun
 
 <div align="center">
-  <img src="./pacman.svg" alt="Pac-Man inspired contribution graph" width="100%" />
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pac-Man themed contribution graph" width="100%" />
   <br />
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
 </div>
