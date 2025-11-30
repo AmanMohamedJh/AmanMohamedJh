@@ -352,42 +352,36 @@
 
 ## 🤝 Let’s Connect
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px;background:#05080f;border:1px solid #151d32;border-radius:22px;padding:22px;box-shadow:0 25px 45px rgba(0,0,0,0.55);">
-  <a href="mailto:amanmohamed5500@gmail.com" style="display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:18px 20px;border-radius:18px;background:radial-gradient(circle at 20% 20%,rgba(8,132,255,0.35),rgba(7,9,16,0.95));text-decoration:none;color:#f5f7ff;border:1px solid rgba(61,153,255,0.35);">
-    <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="Neon mail" width="72" style="border-radius:12px;object-fit:cover;flex-shrink:0;" />
-    <div style="flex:1;min-width:220px;word-break:break-word;">
-      <div style="font-size:0.85rem;letter-spacing:0.04em;color:#89b5ff;">email squad channel</div>
-      <strong style="font-size:1.05rem;">amanmohamed5500@gmail.com</strong>
-    </div>
-  </a>
-  <a href="tel:+94764050889" style="display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:18px 20px;border-radius:18px;background:radial-gradient(circle at 80% 20%,rgba(255,54,118,0.35),rgba(7,9,16,0.95));text-decoration:none;color:#f5f7ff;border:1px solid rgba(255,92,153,0.35);">
-    <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" alt="Neon phone" width="72" style="border-radius:12px;object-fit:cover;flex-shrink:0;" />
-    <div style="flex:1;min-width:220px;word-break:break-word;">
-      <div style="font-size:0.85rem;letter-spacing:0.04em;color:#ff92c8;">direct line</div>
-      <strong style="font-size:1.05rem;">+94 76 405 0889</strong>
-    </div>
-  </a>
-  <div style="display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:18px 20px;border-radius:18px;background:radial-gradient(circle at 50% 15%,rgba(0,206,166,0.28),rgba(7,9,16,0.95));color:#f5f7ff;border:1px solid rgba(0,206,166,0.35);">
-    <img src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" alt="Map pulse" width="72" style="border-radius:12px;object-fit:cover;flex-shrink:0;" />
-    <div style="flex:1;min-width:220px;word-break:break-word;">
-      <div style="font-size:0.85rem;letter-spacing:0.04em;color:#7efce0;">mission base</div>
-      <strong style="font-size:1.05rem;">Trend Horizon Residencies, 24 Bhathiya Mawatha, Colombo</strong>
-    </div>
-  </div>
-  <a href="https://www.linkedin.com/in/aman-mohamed-076644305" target="_blank" style="display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:18px 20px;border-radius:18px;background:radial-gradient(circle at 10% 10%,rgba(84,132,255,0.35),rgba(7,9,16,0.95));text-decoration:none;color:#f5f7ff;border:1px solid rgba(84,132,255,0.35);">
-    <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" alt="Handshake animation" width="72" style="border-radius:12px;object-fit:cover;flex-shrink:0;" />
-    <div style="flex:1;min-width:220px;word-break:break-word;">
-      <div style="font-size:0.85rem;letter-spacing:0.04em;color:#9eb6ff;">linkedin uplink</div>
-      <strong style="font-size:1.05rem;">linkedin.com/in/aman-mohamed-076644305</strong>
-    </div>
-  </a>
-  <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank" style="display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:18px 20px;border-radius:18px;background:radial-gradient(circle at 80% 30%,rgba(255,184,74,0.35),rgba(7,9,16,0.95));text-decoration:none;color:#f5f7ff;border:1px solid rgba(255,184,74,0.35);">
-    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Rocket launch" width="72" style="border-radius:12px;object-fit:cover;flex-shrink:0;" />
-    <div style="flex:1;min-width:220px;word-break:break-word;">
-      <div style="font-size:0.85rem;letter-spacing:0.04em;color:#ffd590;">portfolio hangar</div>
-      <strong style="font-size:1.05rem;">amanmohamedjhportfolio.vercel.app</strong>
-    </div>
-  </a>
-</div>
+<table width="100%" cellpadding="6" cellspacing="10">
+  <tr>
+    <td align="center">
+      <a href="mailto:amanmohamed5500@gmail.com">
+        <img src="./assets/connect/connect_email.gif" alt="Email Aman" width="100%" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="tel:+94764050889">
+        <img src="./assets/connect/connect_phone.gif" alt="Call Aman" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/connect/connect_location.gif" alt="Location Colombo" width="100%" />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/aman-mohamed-076644305" target="_blank">
+        <img src="./assets/connect/connect_linkedin.gif" alt="LinkedIn Aman" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://amanmohamedjhportfolio.vercel.app" target="_blank">
+        <img src="./assets/connect/connect_portfolio.gif" alt="Portfolio Aman" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">Let’s collaborate on something worth shipping.</p>
