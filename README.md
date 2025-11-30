@@ -162,65 +162,71 @@
 
 ## 🧰 Tech Focus
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;">
-  <div style="background:#071022;border-radius:18px;padding:18px;border:1px solid #1a2f4d;box-shadow:0 12px 30px rgba(0,0,0,0.35);">
-    <h4 style="margin-top:0;display:flex;align-items:center;gap:8px;"><span>💡</span>Programming & Languages</h4>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;">
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(79,209,197,0.35);box-shadow:0 8px 18px rgba(79,209,197,0.25);"><img src="https://cdn.simpleicons.org/go/00ADD8" height="14" alt="Go" />Go</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(79,209,197,0.35);box-shadow:0 8px 18px rgba(79,209,197,0.25);"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="14" alt="TypeScript" />TypeScript</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(79,209,197,0.35);box-shadow:0 8px 18px rgba(79,209,197,0.25);"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="14" alt="JavaScript" />JavaScript</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(79,209,197,0.35);box-shadow:0 8px 18px rgba(79,209,197,0.25);"><img src="https://cdn.simpleicons.org/java/F89820" height="14" alt="Java" />Java</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(79,209,197,0.35);box-shadow:0 8px 18px rgba(79,209,197,0.25);"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="14" alt="Kotlin" />Kotlin</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(79,209,197,0.35);box-shadow:0 8px 18px rgba(79,209,197,0.25);"><img src="https://cdn.simpleicons.org/python/3776AB" height="14" alt="Python" />Python</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(79,209,197,0.35);box-shadow:0 8px 18px rgba(79,209,197,0.25);"><img src="https://cdn.simpleicons.org/c/00599C" height="14" alt="C" />C/C++</span>
-    </div>
-  </div>
-  <div style="background:#071022;border-radius:18px;padding:18px;border:1px solid #1a2f4d;box-shadow:0 12px 30px rgba(0,0,0,0.35);">
-    <h4 style="margin-top:0;display:flex;align-items:center;gap:8px;"><span>🧩</span>Frameworks & Platforms</h4>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;">
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(94,234,212,0.35);box-shadow:0 8px 18px rgba(94,234,212,0.25);"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="14" alt="Next.js" />Next.js</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(94,234,212,0.35);box-shadow:0 8px 18px rgba(94,234,212,0.25);"><img src="https://cdn.simpleicons.org/react/61DAFB" height="14" alt="React" />React</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(94,234,212,0.35);box-shadow:0 8px 18px rgba(94,234,212,0.25);"><img src="https://cdn.simpleicons.org/nestjs/E0234E" height="14" alt="NestJS" />NestJS</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(94,234,212,0.35);box-shadow:0 8px 18px rgba(94,234,212,0.25);"><img src="https://cdn.simpleicons.org/express/FFFFFF" height="14" alt="Express" />Express</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(94,234,212,0.35);box-shadow:0 8px 18px rgba(94,234,212,0.25);"><img src="https://cdn.simpleicons.org/android/3DDC84" height="14" alt="Android" />Android Jetpack</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(94,234,212,0.35);box-shadow:0 8px 18px rgba(94,234,212,0.25);"><img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" height="14" alt="Tailwind" />Tailwind</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1a2d46);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(94,234,212,0.35);box-shadow:0 8px 18px rgba(94,234,212,0.25);"><img src="https://cdn.simpleicons.org/react/ffffff" height="14" alt="shadcn" />shadcn/ui</span>
-    </div>
-  </div>
-  <div style="background:#071022;border-radius:18px;padding:18px;border:1px solid #1a2f4d;box-shadow:0 12px 30px rgba(0,0,0,0.35);">
-    <h4 style="margin-top:0;display:flex;align-items:center;gap:8px;"><span>⚙️</span>Backend & DevOps</h4>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;">
-      <span style="background:linear-gradient(135deg,#111b2f,#1f1f2f);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,113,113,0.45);box-shadow:0 8px 18px rgba(248,113,113,0.25);"><img src="https://cdn.simpleicons.org/go/00ADD8" height="14" alt="Go services" />Go services</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f1f2f);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,113,113,0.45);box-shadow:0 8px 18px rgba(248,113,113,0.25);"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="14" alt="Node.js" />Node.js</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f1f2f);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,113,113,0.45);box-shadow:0 8px 18px rgba(248,113,113,0.25);"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="14" alt="JWT" />JWT / RBAC / MFA</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f1f2f);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,113,113,0.45);box-shadow:0 8px 18px rgba(248,113,113,0.25);"><img src="https://cdn.simpleicons.org/apacherocketmq/D77310" height="14" alt="REST" />REST API design</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f1f2f);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,113,113,0.45);box-shadow:0 8px 18px rgba(248,113,113,0.25);"><img src="https://cdn.simpleicons.org/opentelemetry/5965f2" height="14" alt="Observability" />Audit logging</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f1f2f);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,113,113,0.45);box-shadow:0 8px 18px rgba(248,113,113,0.25);"><img src="https://cdn.simpleicons.org/fastapi/009688" height="14" alt="Rate limit" />Rate limiting</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f1f2f);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,113,113,0.45);box-shadow:0 8px 18px rgba(248,113,113,0.25);"><img src="https://cdn.simpleicons.org/githubactions/2088FF" height="14" alt="CI/CD" />CI/CD</span>
-    </div>
-  </div>
-  <div style="background:#071022;border-radius:18px;padding:18px;border:1px solid #1a2f4d;box-shadow:0 12px 30px rgba(0,0,0,0.35);">
-    <h4 style="margin-top:0;display:flex;align-items:center;gap:8px;"><span>🗄️</span>Data & Storage</h4>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;">
-      <span style="background:linear-gradient(135deg,#111b2f,#1b2642);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(129,140,248,0.45);box-shadow:0 8px 18px rgba(129,140,248,0.25);"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="14" alt="MongoDB" />MongoDB</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1b2642);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(129,140,248,0.45);box-shadow:0 8px 18px rgba(129,140,248,0.25);"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="14" alt="MySQL" />MySQL</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1b2642);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(129,140,248,0.45);box-shadow:0 8px 18px rgba(129,140,248,0.25);"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="14" alt="PostgreSQL" />PostgreSQL</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1b2642);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(129,140,248,0.45);box-shadow:0 8px 18px rgba(129,140,248,0.25);"><img src="https://cdn.simpleicons.org/json/ffffff" height="14" alt="NoSQL" />NoSQL modeling</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1b2642);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(129,140,248,0.45);box-shadow:0 8px 18px rgba(129,140,248,0.25);"><img src="https://cdn.simpleicons.org/redis/DC382D" height="14" alt="Redis" />Redis caching</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1b2642);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(129,140,248,0.45);box-shadow:0 8px 18px rgba(129,140,248,0.25);"><img src="https://cdn.simpleicons.org/opentelemetry/5965f2" height="14" alt="DB observability" />DB observability</span>
-    </div>
-  </div>
-  <div style="background:#071022;border-radius:18px;padding:18px;border:1px solid #1a2f4d;box-shadow:0 12px 30px rgba(0,0,0,0.35);">
-    <h4 style="margin-top:0;display:flex;align-items:center;gap:8px;"><span>🚢</span>Product & Delivery</h4>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;">
-      <span style="background:linear-gradient(135deg,#111b2f,#1f2440);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,250,130,0.45);box-shadow:0 8px 18px rgba(248,250,130,0.25);"><img src="https://cdn.simpleicons.org/notion/FFFFFF" height="14" alt="Research" />Product research</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f2440);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,250,130,0.45);box-shadow:0 8px 18px rgba(248,250,130,0.25);"><img src="https://cdn.simpleicons.org/trello/026AA7" height="14" alt="PM" />Project management</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f2440);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,250,130,0.45);box-shadow:0 8px 18px rgba(248,250,130,0.25);"><img src="https://cdn.simpleicons.org/scrumalliance/009FDA" height="14" alt="Agile" />Agile / SDLC</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f2440);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,250,130,0.45);box-shadow:0 8px 18px rgba(248,250,130,0.25);"><img src="https://cdn.simpleicons.org/figma/F24E1E" height="14" alt="UX" />UX storytelling</span>
-      <span style="background:linear-gradient(135deg,#111b2f,#1f2440);padding:6px 12px;border-radius:999px;font-size:0.85rem;display:flex;align-items:center;gap:6px;border:1px solid rgba(248,250,130,0.45);box-shadow:0 8px 18px rgba(248,250,130,0.25);"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="14" alt="Docs" />Documentation</span>
-    </div>
-  </div>
-</div>
+<table width="100%" border="0" cellspacing="12" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💡 Programming & Languages</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Go-111c32?style=flat-square&logo=go&logoColor=00ADD8&labelColor=0a111f&color=111c32" alt="Go" />
+        <img src="https://img.shields.io/badge/-TypeScript-111c32?style=flat-square&logo=typescript&logoColor=61DAFB&labelColor=0a111f&color=111c32" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-JavaScript-111c32?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0a111f&color=111c32" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-Java-111c32?style=flat-square&logo=java&logoColor=F89820&labelColor=0a111f&color=111c32" alt="Java" />
+        <img src="https://img.shields.io/badge/-Kotlin-111c32?style=flat-square&logo=kotlin&logoColor=7F52FF&labelColor=0a111f&color=111c32" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/-Python-111c32?style=flat-square&logo=python&logoColor=FFE873&labelColor=0a111f&color=111c32" alt="Python" />
+        <img src="https://img.shields.io/badge/-C%2FC%2B%2B-111c32?style=flat-square&logo=c&logoColor=00599C&labelColor=0a111f&color=111c32" alt="C/C++" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 Frameworks & Platforms</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Next.js-0f1b30?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=05070f&color=0f1b30" alt="Next.js" />
+        <img src="https://img.shields.io/badge/-React-0f1b30?style=flat-square&logo=react&logoColor=61DAFB&labelColor=05070f&color=0f1b30" alt="React" />
+        <img src="https://img.shields.io/badge/-NestJS-0f1b30?style=flat-square&logo=nestjs&logoColor=E0234E&labelColor=05070f&color=0f1b30" alt="NestJS" />
+        <img src="https://img.shields.io/badge/-Express-0f1b30?style=flat-square&logo=express&logoColor=FFFFFF&labelColor=05070f&color=0f1b30" alt="Express" />
+        <img src="https://img.shields.io/badge/-Android%20Jetpack-0f1b30?style=flat-square&logo=android&logoColor=3DDC84&labelColor=05070f&color=0f1b30" alt="Android Jetpack" />
+        <img src="https://img.shields.io/badge/-Tailwind-0f1b30?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=05070f&color=0f1b30" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/-shadcn·ui-0f1b30?style=flat-square&logo=react&logoColor=FFFFFF&labelColor=05070f&color=0f1b30" alt="shadcn/ui" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & DevOps</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Go%20services-1a1e33?style=flat-square&logo=go&logoColor=00ADD8&labelColor=090c18&color=1a1e33" alt="Go services" />
+        <img src="https://img.shields.io/badge/-Node.js-1a1e33?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=090c18&color=1a1e33" alt="Node.js" />
+        <img src="https://img.shields.io/badge/-JWT%20%2F%20RBAC%20%2F%20MFA-1a1e33?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF&labelColor=090c18&color=1a1e33" alt="JWT / RBAC / MFA" />
+        <img src="https://img.shields.io/badge/-REST%20API%20design-1a1e33?style=flat-square&logo=apachespark&logoColor=F97316&labelColor=090c18&color=1a1e33" alt="REST API design" />
+        <img src="https://img.shields.io/badge/-Audit%20logging-1a1e33?style=flat-square&logo=opentelemetry&logoColor=5965f2&labelColor=090c18&color=1a1e33" alt="Audit logging" />
+        <img src="https://img.shields.io/badge/-Rate%20limiting-1a1e33?style=flat-square&logo=fastapi&logoColor=00c896&labelColor=090c18&color=1a1e33" alt="Rate limiting" />
+        <img src="https://img.shields.io/badge/-CI%2FCD-1a1e33?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=090c18&color=1a1e33" alt="CI/CD" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Data & Storage</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-MongoDB-141832?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=080b16&color=141832" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/-MySQL-141832?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=080b16&color=141832" alt="MySQL" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-141832?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=080b16&color=141832" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/-NoSQL%20modeling-141832?style=flat-square&logo=json&logoColor=FFFFFF&labelColor=080b16&color=141832" alt="NoSQL modeling" />
+        <img src="https://img.shields.io/badge/-Redis%20caching-141832?style=flat-square&logo=redis&logoColor=DC382D&labelColor=080b16&color=141832" alt="Redis caching" />
+        <img src="https://img.shields.io/badge/-DB%20observability-141832?style=flat-square&logo=opentelemetry&logoColor=5965f2&labelColor=080b16&color=141832" alt="DB observability" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🚢 Product & Delivery</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Product%20research-191f35?style=flat-square&logo=notion&logoColor=FFFFFF&labelColor=080b16&color=191f35" alt="Product research" />
+        <img src="https://img.shields.io/badge/-Project%20management-191f35?style=flat-square&logo=trello&logoColor=026AA7&labelColor=080b16&color=191f35" alt="Project management" />
+        <img src="https://img.shields.io/badge/-Agile%20%2F%20SDLC-191f35?style=flat-square&logo=scrumalliance&logoColor=2EC4B6&labelColor=080b16&color=191f35" alt="Agile / SDLC" />
+        <img src="https://img.shields.io/badge/-UX%20storytelling-191f35?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=080b16&color=191f35" alt="UX storytelling" />
+        <img src="https://img.shields.io/badge/-Documentation-191f35?style=flat-square&logo=googlecolab&logoColor=F9AB00&labelColor=080b16&color=191f35" alt="Documentation" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
