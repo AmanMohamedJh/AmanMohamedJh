@@ -352,9 +352,9 @@
 
 ## 🤝 Let’s Connect
 
-| [![Email](./assets/connect/connect_email.gif)](mailto:amanmohamed5500@gmail.com) | [![Phone](./assets/connect/connect_phone.gif)](tel:+94764050889) |
-| --- | --- |
-| [![Location](./assets/connect/connect_location.gif)](#) | [![LinkedIn](./assets/connect/connect_linkedin.gif)](https://www.linkedin.com/in/aman-mohamed-076644305) |
-| [![Portfolio](./assets/connect/connect_portfolio.gif)](https://amanmohamedjhportfolio.vercel.app) | &nbsp; |
+| [![Email](./assets/connect/connect_email.gif)](mailto:amanmohamed5500@gmail.com)                  | [![Phone](./assets/connect/connect_phone.gif)](tel:+94764050889)                                         |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [![Location](./assets/connect/connect_location.gif)](#)                                           | [![LinkedIn](./assets/connect/connect_linkedin.gif)](https://www.linkedin.com/in/aman-mohamed-076644305) |
+| [![Portfolio](./assets/connect/connect_portfolio.gif)](https://amanmohamedjhportfolio.vercel.app) | &nbsp;                                                                                                   |
 
 <p align="center">Let’s collaborate on something worth shipping.</p>
