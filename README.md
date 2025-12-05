@@ -70,6 +70,18 @@
   </tr>
 </table>
 
+<!-- ============================================================================ 
+   GitHub Traffic Stats Badge
+   Displays number of profile and repo visits dynamically
+   ============================================================================ -->
+
+<div align="center" style="margin:20px 0;">
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=AmanMohamedJh&label=Profile+Views&color=33B8F6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
 <h2 align="left">Hi 👋! My name is Aman Mohamed and I'm a SaaS-focused software engineer in training from Colombo, Sri Lanka.</h2>
 
 <table width="100%" cellpadding="18" cellspacing="0" style="border-radius:22px;border:1px solid #1f2a44;background:#070d18;margin-top:12px;">
